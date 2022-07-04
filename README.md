@@ -22,6 +22,13 @@ Below are the summary statistics for Oahu air temperatures in December:
 ## Summary
 
 ### Findings
-
+In reviewing Oahu temperatures it is clear that temperatures remain fairly stable throughout the year. Average daily high temps are within 2 degrees from December to June. Average monthly temperatures show only a 4 degree difference. Daily low temps have the highest difference but is still only a 6 degree difference. Average daily temperature range is 27 degrees in December and only 21 degrees in June.
 
 ### Additional analysis recommended
+While the weather seems to fairly stable in Oahu on a daily average basis, it would help to get a clearer picture of average temperature ranges throughout the day. Suggested additional queries below:
+* Average temperatures in 2 hour ranges throughout the business day for both June and December
+  * 6am - 8am, 8am - 10 am ... 6pm - 8pm
+* Average percipitation and temperature for June and December plotted
+
+### Conclusion
+The weather in Oahu appears to be relatively stable and fair. Initial analysis indicates Oahu would be a good location for a surf and ice cream shop from a weather standpoint. Additional analysis would be preferred to confirm initial conclusion.
