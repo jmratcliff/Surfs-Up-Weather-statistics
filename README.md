@@ -5,8 +5,12 @@ Analysis of temperature trends in Oahu to determine if a surf and ice cream shop
 
 ## Results
 ### June
+Below are the summary statistics for Oahu air temperatures in June
+
 
 ### December
+Below are the summary statistics for Oahu air temperatures in December
+
 
 ### Differences
 
